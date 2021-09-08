@@ -1,0 +1,31 @@
+body
+{
+background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+#status , #objects , #start_button
+{
+font-size: 18px;
+}
+.footer
+{
+position: fixed;
+bottom: 0px;
+width: 100%;
+color: cyan;
+background-color: crimson;
+line-height: 3;
+text-align: center;
+}
+canvas
+{
+border: 2px solid firebrick;
+border-radius: 20px;
+margin-top: 130px;
+box-shadow: 5px 5px 5px dodgerblue;
+}
